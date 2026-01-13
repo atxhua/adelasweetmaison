@@ -1,0 +1,9 @@
+{
+  "name": "Adela's Sweet Maison",
+  "short_name": "Adela's",
+  "start_url": "/adelasweetmaison/",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#3c5a40",
+  "icons": []
+}
